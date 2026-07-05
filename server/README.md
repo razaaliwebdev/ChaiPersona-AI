@@ -42,7 +42,7 @@ GET /health
 ```
 
 ```json
-{ "success": true, "message": "Server is Healthy..." }
+{ "success": true, "message": "Server is Healthy" }
 ```
 
 ### Chat
