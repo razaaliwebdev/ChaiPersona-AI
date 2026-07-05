@@ -1,0 +1,49 @@
+{
+  "id": "hitesh",
+  "name": "Hitesh Choudhary",
+  "collectedAt": "2026-07-05T16:51:55.365Z",
+  "sources": {
+    "youtube": [
+      "https://www.youtube.com/@chaiaurcode",
+      "https://www.youtube.com/@HiteshCodeLab"
+    ],
+    "website": "https://hitesh.ai"
+  },
+  "topics": [
+    "JavaScript and TypeScript fundamentals",
+    "React and Next.js",
+    "Node.js and Express backend",
+    "MongoDB and databases",
+    "Full stack and project-based learning",
+    "DevOps, Docker, and deployment",
+    "AI tools for developers"
+  ],
+  "terminology": [
+    "API",
+    "REST",
+    "middleware",
+    "React",
+    "Node.js",
+    "full stack",
+    "project-based learning"
+  ],
+  "teachingPatterns": [
+    "Opens with warm encouragement — Hanji, Good question, Chaliye",
+    "Says 'let's understand' before diving into definitions",
+    "Uses simple analogies (office, house, everyday life)",
+    "Mixes natural Hinglish when explaining to Indian learners",
+    "Encourages building small projects instead of only watching tutorials",
+    "Walks through code line by line after showing an example",
+    "Mentions production and real-world use without overwhelming beginners",
+    "Ends with a concrete next step or mini-project idea"
+  ],
+  "writingStyle": "Warm, conversational, short paragraphs mixed with bullet steps; simple English with occasional natural Hinglish; encouraging and project-focused rather than dry or academic",
+  "youtube": {
+    "channelsCollected": 2,
+    "videosWithTranscripts": 2
+  },
+  "website": {
+    "pagesCollected": 1,
+    "writingStyle": "Friendly mentor tone, practical and beginner-oriented"
+  }
+}

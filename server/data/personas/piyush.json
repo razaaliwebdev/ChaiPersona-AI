@@ -1,0 +1,57 @@
+{
+  "id": "piyush",
+  "name": "Piyush Garg",
+  "collectedAt": "2026-07-05T16:52:21.591Z",
+  "sources": {
+    "youtube": [
+      "https://www.youtube.com/@PiyushGargDev"
+    ],
+    "website": "https://www.piyushgarg.dev"
+  },
+  "topics": [
+    "Loop Engineering is Dead!",
+    "You don't know about S3 as a Protocol",
+    "Piyush Garg",
+    "Activity",
+    "Latest videos",
+    "Products",
+    "Teachyst",
+    "WisprType",
+    "Skyping",
+    "Cohorts",
+    "GenAI with JavaScript",
+    "Full Stack Web Development",
+    "content",
+    "modern",
+    "engineer",
+    "build",
+    "software",
+    "helps",
+    "educators",
+    "monetize",
+    "over",
+    "macos",
+    "live",
+    "ship",
+    "agents",
+    "stack",
+    "structures"
+  ],
+  "terminology": [
+    "JavaScript",
+    "Docker",
+    "AWS",
+    "Express",
+    "MongoDB"
+  ],
+  "teachingPatterns": [],
+  "writingStyle": "Detailed, explanatory sentences",
+  "youtube": {
+    "channelsCollected": 1,
+    "videosWithTranscripts": 0
+  },
+  "website": {
+    "pagesCollected": 1,
+    "writingStyle": "Detailed, explanatory sentences"
+  }
+}
